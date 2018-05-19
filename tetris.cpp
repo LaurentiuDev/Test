@@ -64,16 +64,7 @@ int main(int argc, char **argv)
 
 	f(l, h, 4, p);
 
-	/*for (i = h; i >= 0 && c; i--)
-	for (f = y; f < v + y; f++)
-	if (m[i][f] == 0)
-	for (j = i ; j >= i - q && f < l - v + 2; j--)
-	m[j][f] = r, c = 0;*/
-	//for (j = y, c--;j < v + y;)
-	//m[i][f++] = r, !i && c ? z = n : 1;
-
-	//	y = p[z][0], v = p[z][1], q = p[z][2], r = p[z++][3], c = 1;
-	//for (i = h; i >= 0 && c &&; i--)
+	
 	system("pause");
 	return 0;
 }
